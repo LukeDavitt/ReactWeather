@@ -3,7 +3,7 @@ React Boiler Plate App
 
 `npm install`
 
-'webpack -w`
+`webpack -w`
 
 open new terminal window
 
