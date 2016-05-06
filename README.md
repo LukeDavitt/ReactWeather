@@ -8,3 +8,9 @@ React Boiler Plate App
 open new terminal window
 
 `node server`
+
+open browser
+
+go to address `localhost:3000`
+
+Code Away
