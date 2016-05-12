@@ -3,6 +3,8 @@ React Boiler Plate App
 
 `npm install`
 
+`sudo npm install -g webpack@1.12.13`
+
 `webpack -w`
 
 open new terminal window
